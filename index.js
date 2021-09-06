@@ -18,7 +18,7 @@ for(let i of arguments){
 }
 
 
-//if no flag present and 1 or more than 1 file present in filenames then it will run.
+//if no flag present and 1 or more than 1 file present in filenames then it will run and disply the file.
 /*  let assume a.txt and b.txt present in filenames then it will read the file and one by one and display 
     the content of file.  */
 
